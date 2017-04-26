@@ -28,7 +28,7 @@ INSTALL
 
 1. Upload all files from /upload folder to the root of your opencart installation. No files will be overwritten, if you install the extension first time.
 
-2. The Braintree library is preinstalled, but to be sure you can always install the fresh instance:
+2. Install Braintree library:
 
 2.1 Delete all files from system/braintree folder of your opencart installation 
 
